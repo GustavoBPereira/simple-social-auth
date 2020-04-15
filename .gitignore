@@ -2,3 +2,6 @@
 .DS_Store
 staticfiles
 .env
+venv
+.idea
+db.sqlite3
